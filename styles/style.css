@@ -63,7 +63,7 @@
 
 .header__theme-menu-list {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   gap: 10px;
 }
 
@@ -245,17 +245,17 @@ img {
     grid-column: 1 / 3;
   }
 
-  .content__gallery-ice-cream{
+  .content__gallery-ice-cream {
     grid-row: 1 / 3;
     grid-column: 3 / 4;
   }
 
-  .content__gallery-tape{
+  .content__gallery-tape {
     grid-row: 2 / 4;
     grid-column: 1 / 2;
   }
 
-  .content__gallery-books{
+  .content__gallery-books {
     grid-row: 2 / 3;
     grid-column: 2 / 3;
   }
