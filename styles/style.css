@@ -6,6 +6,9 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   inline-size: 100vw;
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  font-weight: var(--font-weight);
 }
 
 .header {
