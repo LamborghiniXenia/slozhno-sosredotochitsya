@@ -195,13 +195,6 @@ text-align: left;
   gap: var(--gap);
 }
 
-img {
-  inline-size: 100%;
-  block-size: 100%;
-  object-fit: cover;
-  object-position: center;
-}
-
 .footer {
   min-block-size: 100svh;
   display: flex;

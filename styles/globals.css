@@ -32,6 +32,13 @@ picture {
   padding: 0;
 }
 
+img {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 button,
 a {
   color: currentColor;
